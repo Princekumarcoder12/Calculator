@@ -1,0 +1,11 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Best Calculator",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Prince",
+  "license": "ISC"
+}
